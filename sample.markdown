@@ -24,4 +24,24 @@ place the clickable text in the square brackets and the url in round brackets:
 [codeAdam](https://codeadam.ca)
 
 #Images
-![github Logo](github.jpg) 
+![github Logo](logo/github.jpg) 
+<img src="images/github.jpg" width="100"/>
+##Code
+single tic. to add 'code' inline
+multiple lines are three tics
+'''Javascript
+var test ="string";
+
+## Tables
+column 1 | Column 2
+----- | ------
+Row 1 | Row 1
+Row 2 | Row 2
+
+|column 1 | column 2|
+|________ | ________|
+|Row 1    | Row 2   |
+|Row 1    | Row 2   |
+##Warning 
+[!warning]--
+must add two spaces after closing square bracket.
